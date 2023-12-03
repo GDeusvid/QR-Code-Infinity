@@ -38,7 +38,7 @@ if (canvas.getContext) {
 
 } else {
   // codigo para quando o canvas nao for suportado aqui
-  alert("Seu navegador não é suportado. Tente atualizar ou utilizar um navegador mais atualizado!");
+  console.log("Seu navegador não é suportado. Tente atualizar ou utilizar um navegador mais atualizado!");
 }
  
 }
